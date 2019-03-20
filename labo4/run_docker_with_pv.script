@@ -1,6 +1,0 @@
-docker run -d \
--v [...]:/docker-entrypoint-initdb.d/:ro \
--p 1337:3306 \
---name ma_bd --rm \
---env="MYSQL_ALLOW_EMPTY_PASSWORD=true" mysql:8.0
-
