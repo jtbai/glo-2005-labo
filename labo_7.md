@@ -1,5 +1,5 @@
 ---
-title : Labo05
+title : Labo07
 theme : "white"
 highlightTheme: "darkula"
 ---
@@ -38,8 +38,9 @@ highlightTheme: "darkula"
 ---
 
 ### Networking
-* Docker Network create [nom_network]
-* Docker Network connect [nom_network] [nom_conteneur]
+* `Docker Network create [nom_network]`
+* `Docker Network connect [nom_network] [nom_conteneur]`
+* `Docker run --network [nom_network]`
 * Utilisation des noms de conteneur dans les applications !
 
 ---
