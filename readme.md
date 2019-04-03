@@ -8,5 +8,6 @@
 [Labo 4](labo_4.md)  
 [Labo 5](labo_5.md)  
 [Labo 6](labo_6.md)  
-[Labo 6](labo_7.md)  
+[Labo 7](labo_7.md)  
+[Labo 8](labo_8.md)  
 
