@@ -10,4 +10,6 @@
 [Labo 6](labo_6.md)  
 [Labo 7](labo_7.md)  
 [Labo 8](labo_8.md)  
+[Labo 9](labo_9.md)  
+[Code propre](code_propre.md)  
 
